@@ -1,0 +1,2430 @@
+fileFormatVersion: 2
+guid: 1aef2d7d1f7b7264b8fdfcbe99a9f0f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-volcano-512x512-fmt13_0
+    21300002: SpriteAtlasTexture-volcano-512x512-fmt13_1
+    21300004: SpriteAtlasTexture-volcano-512x512-fmt13_2
+    21300006: SpriteAtlasTexture-volcano-512x512-fmt13_3
+    21300008: SpriteAtlasTexture-volcano-512x512-fmt13_4
+    21300010: SpriteAtlasTexture-volcano-512x512-fmt13_5
+    21300012: SpriteAtlasTexture-volcano-512x512-fmt13_6
+    21300014: SpriteAtlasTexture-volcano-512x512-fmt13_7
+    21300016: SpriteAtlasTexture-volcano-512x512-fmt13_8
+    21300018: SpriteAtlasTexture-volcano-512x512-fmt13_9
+    21300020: SpriteAtlasTexture-volcano-512x512-fmt13_10
+    21300022: SpriteAtlasTexture-volcano-512x512-fmt13_11
+    21300024: SpriteAtlasTexture-volcano-512x512-fmt13_12
+    21300026: SpriteAtlasTexture-volcano-512x512-fmt13_13
+    21300028: SpriteAtlasTexture-volcano-512x512-fmt13_14
+    21300030: SpriteAtlasTexture-volcano-512x512-fmt13_15
+    21300032: SpriteAtlasTexture-volcano-512x512-fmt13_16
+    21300034: SpriteAtlasTexture-volcano-512x512-fmt13_17
+    21300036: SpriteAtlasTexture-volcano-512x512-fmt13_18
+    21300038: SpriteAtlasTexture-volcano-512x512-fmt13_19
+    21300040: SpriteAtlasTexture-volcano-512x512-fmt13_20
+    21300042: SpriteAtlasTexture-volcano-512x512-fmt13_21
+    21300044: SpriteAtlasTexture-volcano-512x512-fmt13_22
+    21300046: SpriteAtlasTexture-volcano-512x512-fmt13_23
+    21300048: SpriteAtlasTexture-volcano-512x512-fmt13_24
+    21300050: SpriteAtlasTexture-volcano-512x512-fmt13_25
+    21300052: SpriteAtlasTexture-volcano-512x512-fmt13_26
+    21300054: SpriteAtlasTexture-volcano-512x512-fmt13_27
+    21300056: SpriteAtlasTexture-volcano-512x512-fmt13_28
+    21300058: SpriteAtlasTexture-volcano-512x512-fmt13_29
+    21300060: SpriteAtlasTexture-volcano-512x512-fmt13_30
+    21300062: SpriteAtlasTexture-volcano-512x512-fmt13_31
+    21300064: SpriteAtlasTexture-volcano-512x512-fmt13_32
+    21300066: SpriteAtlasTexture-volcano-512x512-fmt13_33
+    21300068: SpriteAtlasTexture-volcano-512x512-fmt13_34
+    21300070: SpriteAtlasTexture-volcano-512x512-fmt13_35
+    21300072: SpriteAtlasTexture-volcano-512x512-fmt13_36
+    21300074: SpriteAtlasTexture-volcano-512x512-fmt13_37
+    21300076: SpriteAtlasTexture-volcano-512x512-fmt13_38
+    21300078: SpriteAtlasTexture-volcano-512x512-fmt13_39
+    21300080: SpriteAtlasTexture-volcano-512x512-fmt13_40
+    21300082: SpriteAtlasTexture-volcano-512x512-fmt13_41
+    21300084: SpriteAtlasTexture-volcano-512x512-fmt13_42
+    21300086: SpriteAtlasTexture-volcano-512x512-fmt13_43
+    21300088: SpriteAtlasTexture-volcano-512x512-fmt13_44
+    21300090: SpriteAtlasTexture-volcano-512x512-fmt13_45
+    21300092: SpriteAtlasTexture-volcano-512x512-fmt13_46
+    21300094: SpriteAtlasTexture-volcano-512x512-fmt13_47
+    21300096: SpriteAtlasTexture-volcano-512x512-fmt13_48
+    21300098: SpriteAtlasTexture-volcano-512x512-fmt13_49
+    21300100: SpriteAtlasTexture-volcano-512x512-fmt13_50
+    21300102: SpriteAtlasTexture-volcano-512x512-fmt13_51
+    21300104: SpriteAtlasTexture-volcano-512x512-fmt13_52
+    21300106: SpriteAtlasTexture-volcano-512x512-fmt13_53
+    21300108: SpriteAtlasTexture-volcano-512x512-fmt13_54
+    21300110: SpriteAtlasTexture-volcano-512x512-fmt13_55
+    21300112: SpriteAtlasTexture-volcano-512x512-fmt13_56
+    21300114: SpriteAtlasTexture-volcano-512x512-fmt13_57
+    21300116: SpriteAtlasTexture-volcano-512x512-fmt13_58
+    21300118: SpriteAtlasTexture-volcano-512x512-fmt13_59
+    21300120: SpriteAtlasTexture-volcano-512x512-fmt13_60
+    21300122: SpriteAtlasTexture-volcano-512x512-fmt13_61
+    21300124: SpriteAtlasTexture-volcano-512x512-fmt13_62
+    21300126: SpriteAtlasTexture-volcano-512x512-fmt13_63
+    21300128: SpriteAtlasTexture-volcano-512x512-fmt13_64
+    21300130: SpriteAtlasTexture-volcano-512x512-fmt13_65
+    21300132: SpriteAtlasTexture-volcano-512x512-fmt13_66
+    21300134: SpriteAtlasTexture-volcano-512x512-fmt13_67
+    21300136: SpriteAtlasTexture-volcano-512x512-fmt13_68
+    21300138: SpriteAtlasTexture-volcano-512x512-fmt13_69
+    21300140: SpriteAtlasTexture-volcano-512x512-fmt13_70
+    21300142: SpriteAtlasTexture-volcano-512x512-fmt13_71
+    21300144: SpriteAtlasTexture-volcano-512x512-fmt13_72
+    21300146: SpriteAtlasTexture-volcano-512x512-fmt13_73
+    21300148: SpriteAtlasTexture-volcano-512x512-fmt13_74
+    21300150: SpriteAtlasTexture-volcano-512x512-fmt13_75
+    21300152: SpriteAtlasTexture-volcano-512x512-fmt13_76
+    21300154: SpriteAtlasTexture-volcano-512x512-fmt13_77
+    21300156: SpriteAtlasTexture-volcano-512x512-fmt13_78
+    21300158: SpriteAtlasTexture-volcano-512x512-fmt13_79
+    21300160: SpriteAtlasTexture-volcano-512x512-fmt13_80
+    21300162: SpriteAtlasTexture-volcano-512x512-fmt13_81
+    21300164: SpriteAtlasTexture-volcano-512x512-fmt13_82
+    21300166: SpriteAtlasTexture-volcano-512x512-fmt13_83
+    21300168: SpriteAtlasTexture-volcano-512x512-fmt13_84
+    21300170: SpriteAtlasTexture-volcano-512x512-fmt13_85
+    21300172: SpriteAtlasTexture-volcano-512x512-fmt13_86
+    21300174: SpriteAtlasTexture-volcano-512x512-fmt13_87
+    21300176: SpriteAtlasTexture-volcano-512x512-fmt13_88
+    21300178: SpriteAtlasTexture-volcano-512x512-fmt13_89
+    21300180: SpriteAtlasTexture-volcano-512x512-fmt13_90
+    21300182: SpriteAtlasTexture-volcano-512x512-fmt13_91
+    21300184: SpriteAtlasTexture-volcano-512x512-fmt13_92
+    21300186: SpriteAtlasTexture-volcano-512x512-fmt13_93
+    21300188: SpriteAtlasTexture-volcano-512x512-fmt13_94
+    21300190: SpriteAtlasTexture-volcano-512x512-fmt13_95
+    21300192: SpriteAtlasTexture-volcano-512x512-fmt13_96
+    21300194: SpriteAtlasTexture-volcano-512x512-fmt13_97
+    21300196: SpriteAtlasTexture-volcano-512x512-fmt13_98
+    21300198: SpriteAtlasTexture-volcano-512x512-fmt13_99
+    21300200: SpriteAtlasTexture-volcano-512x512-fmt13_100
+    21300202: SpriteAtlasTexture-volcano-512x512-fmt13_101
+    21300204: SpriteAtlasTexture-volcano-512x512-fmt13_102
+    21300206: SpriteAtlasTexture-volcano-512x512-fmt13_103
+    21300208: SpriteAtlasTexture-volcano-512x512-fmt13_104
+    21300210: SpriteAtlasTexture-volcano-512x512-fmt13_105
+    21300212: SpriteAtlasTexture-volcano-512x512-fmt13_106
+    21300214: SpriteAtlasTexture-volcano-512x512-fmt13_107
+    21300216: SpriteAtlasTexture-volcano-512x512-fmt13_108
+    21300218: SpriteAtlasTexture-volcano-512x512-fmt13_109
+    21300220: SpriteAtlasTexture-volcano-512x512-fmt13_110
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e183a11aa641214ebc7ca2416ef3204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 479
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84527bac8ae8d4886e0a737816fa7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 478
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa1a5bd616ff14ebbca96b8317bd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 473
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddbe49b9b6c1b143850e57251636839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 467
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807c3d6b829216408f9de5452c72bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 488
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c783975fb5a945a49ae015d9da0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de0f28d0e86fb468974901efde4ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd4a1c055563542b2fbb53be1b5585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 455
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1fadc5db0896442b4667f21163262a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 454
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756e624769498f34b9cbaa331e2219f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 452
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ad4d48d442b5479687aa1dfa307f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 451
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a777ba13e557548a7ad2200760ab6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 467
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff62dcb8d3e9a84fad1f1013e72c545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 462
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd062534e31ca443be77e368fbe1cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9c99de57ffb0489b4a73f4871ea1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 426
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209eee2da3f24f4781bd272a50b9c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 427
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342060eb18ae444a9a9fdacbb56e0f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 428
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a678d2daaaa08d45a269e566489f034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 442
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff694fa17ca2b34187b1a4734c61460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 438
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc6f923d8644c4cac7e232be1a7a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 422
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f601f0da4c7224bb4a179c8fb895c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 413
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f461ae5688194b819917babeb43fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 413
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5b80e5a61a5b4cb06f2043de8fee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 394
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4433b5be1166248aaa9b255ec8b5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 394
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6773faf55bae34bbeae5adbaa7b45d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 399
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412177fc82edaed439f664aa563d0435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7e491e93e95c44bcc514a4ff09588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 401
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c487df6fe99904ba059d4f159eb60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 401
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828767252bde67342a7d86d6716aef48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 389
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec69bb4831941747bb8c5e26124802e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 379
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec18b43e8505d4bbc04edad98ffb96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1f26ff1a5c714ba85a9a27482c860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 372
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e3c890498ff342b768b85ef64bcb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 365
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9157d074e873948abadbee792b46e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 373
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606f6a695d61c841a7154a947b38478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 373
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1a93baae451c4ab3a15202d7f037f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 362
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3cf9e514cf1234fb6deb7ea62173d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 356
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4fdb7db900778489ceab09b7d8267b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7797d83352073d49bf624146d533819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 340
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbc7901d8ad8240afda78a0b74639c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 338
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff93213f21cf94caad0a5efe91165e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309174d5e8961642a27cdcc00a9763d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 335
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62cdb975226474aaf86c9d0182281b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 349
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e2112e23b8504fad1b37734081a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6114d7644720df94faec01a3e4a220bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 309
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d884a64ecfa0045b41af8c332dd55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 309
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddccbed8e3ac6444b96904385fc7ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b525243969ba4eb502bf7297393ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127547f397c0b64b9818e7f77b95e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 308
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07625a99357e3eb499433baeb725d2fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ccef453a9b5044ab9bbf180c78fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 321
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d86587a05577f4fbbd783a1a1577a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 277
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53c994c0aca00041960e89f84c916a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 294
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f77a82f43830746b754814929c17b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868b00d214998044b105f1653bde52c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 281
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f33f65f10cd849b11d0ebfafe9461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 293
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dfc9422604b834582fb893e18c735b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 293
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a42b347f11828f4bb0d84c059379c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 277
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d3daf939aa744484e90788d32f38c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 263
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5768c44e9cee6024c9e3c7f4d4a8e596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_60
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2b7403a9c47542b63fe28382904e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_61
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 266
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b058b34cd329c84e81dd4f6ddcad1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f1ba434ecc960409affd17e49a7ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 247
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f590351228eff942a5aa6f4c51128f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 231
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0147df6791db84798cabab21540ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a62473343a144b83d525544a85786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 238
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057b8a512aaf3e4396593754e9e2f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 238
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881038deca2d09548bcba9733f9a2b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 217
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5a910582416745a0e30fbed6a1c62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_69
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 231
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6534a6fe26fb48a6717462b88c2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 228
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b2722e3c46c147b8f696023af3cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 212
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978209adc3f13f74f996261e42308947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b17fb2b3f5914dba75f8e2c2cafc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 203
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b548c8fcbced445be01d8af695348d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4ce8412c8aa7468bafa3dd4f7259d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 199
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb8845d22713f4ebb121f2db19eb3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 203
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1801dc402c63345bb8b1586f6de40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb2ffa468d60e84ca32c831094e2cd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 184
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80f14f90d449b4baad4571c2ab814f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 173
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27f2d8283421b42b59fe638bb5bb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_80
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce4a4de5ce0efb47b91dda1445c1554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_81
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 174
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e59acc094b4546bed48a9bd2598ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_82
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ad448199725040b44959ad6146bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a50eedfecfd89419ef5d6f3d06005d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_84
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 143
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ed29510aaf48644be9941b15b49321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 140
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46280261411b51045aa1d9dd3df962f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 162
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce21cdcc86709154fbb19bd485c0e386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_87
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 140
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ea15b30f494541b3a742f24407baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 140
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a21bfbdece6a14c96432bf7de734f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6547cf844af0429396e59d593eb38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_90
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d9ab857769954a9903bb9fddfec5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d2c8066e7d0b743aba3b55ea61e832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_92
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 95
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bccc90ccb92fce46afadc82214df55d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_93
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 98
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd2e6f1878e5448b133c41d6ae6a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_94
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 98
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c51239b46ac1f41beb19a60634fa1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_95
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 121
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643939c1b374f3342b0f7f1848198317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14635ce3f92dda4484928281e771a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3c4bc5fa31dc47ade9a1d32252ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abb47785b9e3443b4f64c5cd8daf35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_99
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 51
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf2fab12c259241b9c3c83ebf01a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb96c602f5983443b0f32a299323d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_101
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25aef039ad1cd439f72fc4d0e944ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 58
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57f764b1710d74a94f0f988cb6a0c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1b2d7bb2eb74428955e8695ff2c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_104
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e8ca72fc6c6ba46a4f6f6a3edfc243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d27967203c034295365216244ce84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_106
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0099b5b66e04e31429ea18bf0c690697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_107
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee267ba306f637744b9d44e40de550e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_108
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 36
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64eb0b8a3c50db40bcd8b9450bf6bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_109
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe40bd0ef9a0ff43adb293429a656cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-volcano-512x512-fmt13_110
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b3778483527f044b28d6e69303e216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e754914ff268c4e4b9ce7eed73d51b54
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
